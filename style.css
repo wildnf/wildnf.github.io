@@ -132,7 +132,7 @@ nav {
 }
 
 .nav__logo {
-    width: 7.5rem;
+    width: 5.3rem;
 }
 
 .nav__links {
@@ -599,9 +599,15 @@ header{
     grid-row: 1/3;
 }
 
+
 .exhibitions__gallery article:nth-child(4) {
     grid-column: 2/4;
     grid-row: 2/3;
+}
+
+.exhibitions__gallery article:nth-child(6) {
+    grid-column: 2/4;
+    grid-row: 3/3;
 }
 
 .exhibitions__gallery article img {
